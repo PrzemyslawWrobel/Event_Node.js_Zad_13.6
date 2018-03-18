@@ -1,0 +1,28 @@
+{
+  "name": "nauka_npm",
+  "version": "1.0.0",
+  "description": "Testowy plik package.json do nauki npm'a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrzemyslawWrobel/npm_module_OS_zad_13.5.git"
+  },
+  "keywords": [
+    "nauka",
+    "npm",
+    "node"
+  ],
+  "author": "PW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrzemyslawWrobel/npm_module_OS_zad_13.5/issues"
+  },
+  "homepage": "https://github.com/PrzemyslawWrobel/npm_module_OS_zad_13.5#readme",
+  "dependencies": {
+    "colors": "^1.2.1"
+  }
+}
